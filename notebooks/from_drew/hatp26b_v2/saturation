@@ -1,0 +1,16 @@
+If we assume throughput of 0.4 in H band and that this is the most challenging channel for saturation limitations,
+then we get 98000 photons/sec for a H_Vega = 6 star per 2 A pixel. 
+
+What is the minimum acceptable exposure time? 1.455 sec for MOSFIRE.
+
+What is maximum counts? 56K e- for 1% linearity with MOSFIRE.
+
+Then we need to spread 143K counts down to 56K maximum --> 2.55 spatial pixels = 1.0 arcsec.
+
+But resetting the detector takes as much time as reading it out (verified for bright JWST modes).
+We could probably get down the 1.455 sec by reading out part of the detector. But for now let's leave it.
+
+To get 75% observing efficiency, need to do 3 integrations + 1 reset = 4.5 sec min exposures.
+Then for H=6 we require 8 pixels ~ 3.0 arcsec diffuser.
+
+
