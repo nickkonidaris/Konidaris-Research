@@ -1,0 +1,2542 @@
+
+WARNING: This feature may not work correctly for systems which contain coordinate breaks or other special surface types.Ghost Trace Data
+
+File : C:\Users\npk\Dropbox\LENS DESGINS\From Others\JWilliams\2021-09-17\2nd Final Henrietta Optical Layout (tolerancing).zmx
+Title: 
+Date : 9/17/2021
+
+
+Units are Millimeters.
+
+Wavelength: 1.800000 µm
+Type: Double Bounces
+The '****' denotes a possible internal focus
+RMS is the RMS spot radius on axis at the primary wavelength.
+RMS values of 0.00 indicate that an accurate RMS
+could not be computed, usually due to ray errors.
+
+This analysis may be inaccurate if the system is
+non-rotationally symmetric or uses non-standard surfaces.
+
+Ghost reflection off surface 6 then 4. (GH006004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.6911E+02 	    0.727151 	  0.0000E+00
+Marginal ray height    : 	      169.1116
+Chief ray height       : 	     -181.3436
+Distance to ghost pupil: 	     -256.0807
+Distance to ghost focus: 	     -245.9395
+Effective focal length : 	     -738.7858
+
+Ghost reflection off surface 6 then 3. (GH006003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.6593E+02 	    0.760448 	  0.0000E+00
+Marginal ray height    : 	      165.9264
+Chief ray height       : 	     -177.7504
+Distance to ghost pupil: 	     -264.4994
+Distance to ghost focus: 	     -252.3567
+Effective focal length : 	     -772.6151
+
+Ghost reflection off surface 6 then 2. (GH006002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 6 then 1. (GH006001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -1.4639E+03 	   55.034957 	  1.0349E+03
+Marginal ray height    : 	    -1463.8859
+Chief ray height       : 	     1528.7017
+Distance to ghost pupil: 	  -141720.6868
+Distance to ghost focus: 	    -4226.0100
+Effective focal length : 	     1466.5167
+
+Ghost reflection off surface 7 then 6. (GH007006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.6824E+01 	    3.182775 	  0.0000E+00
+Marginal ray height    : 	       36.8240
+Chief ray height       : 	      -72.9980
+Distance to ghost pupil: 	      151.4496
+Distance to ghost focus: 	      234.4048
+Effective focal length : 	     3233.6992
+
+Ghost reflection off surface 7 then 4. (GH007004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.7277E+01 	    5.314963 	  1.2128E+01
+Marginal ray height    : 	      -17.2772
+Chief ray height       : 	      114.0518
+Distance to ghost pupil: 	     -224.0130
+Distance to ghost focus: 	     -183.6550
+Effective focal length : 	     5400.0026
+
+Ghost reflection off surface 7 then 3. (GH007003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.7328E+01 	    5.379425 	  1.2159E+01
+Marginal ray height    : 	      -17.3281
+Chief ray height       : 	      112.6494
+Distance to ghost pupil: 	     -229.4584
+Distance to ghost focus: 	     -186.4302
+Effective focal length : 	     5465.4957
+
+Ghost reflection off surface 7 then 2. (GH007002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 7 then 1. (GH007001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  2.3658E+02 	  389.402443 	  1.7028E+02
+Marginal ray height    : 	      236.5755
+Chief ray height       : 	    -1159.7190
+Distance to ghost pupil: 	  -665184.9212
+Distance to ghost focus: 	    -4027.9780
+Effective focal length : 	    -8649.3023
+
+Ghost reflection off surface 8 then 7. (GH008007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.5869E+01 	    0.423081 	  0.0000E+00
+Marginal ray height    : 	      -85.8687
+Chief ray height       : 	       65.3061
+Distance to ghost pupil: 	       58.0717
+Distance to ghost focus: 	       72.6587
+Effective focal length : 	     -429.8498
+
+Ghost reflection off surface 8 then 6. (GH008006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1830E+02 	    1.995352 	  0.0000E+00
+Marginal ray height    : 	      118.2993
+Chief ray height       : 	      -97.4409
+Distance to ghost pupil: 	      288.9433
+Distance to ghost focus: 	      472.0973
+Effective focal length : 	     2027.2776
+
+Ghost reflection off surface 8 then 4. (GH008004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.3719E+02 	    0.386275 	  0.0000E+00
+Marginal ray height    : 	      337.1883
+Chief ray height       : 	     -252.8950
+Distance to ghost pupil: 	     -271.3826
+Distance to ghost focus: 	     -260.4950
+Effective focal length : 	     -392.4556
+
+Ghost reflection off surface 8 then 3. (GH008003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.2963E+02 	    0.407127 	  0.0000E+00
+Marginal ray height    : 	      329.6272
+Chief ray height       : 	     -247.1350
+Distance to ghost pupil: 	     -281.6199
+Distance to ghost focus: 	     -268.4004
+Effective focal length : 	     -413.6412
+
+Ghost reflection off surface 8 then 2. (GH008002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 8 then 1. (GH008001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -2.6390E+03 	   19.819234 	  1.7054E+03
+Marginal ray height    : 	    -2639.0037
+Chief ray height       : 	     1958.6851
+Distance to ghost pupil: 	  -100710.6042
+Distance to ghost focus: 	    -4286.7616
+Effective focal length : 	      825.1883
+
+Ghost reflection off surface 9 then 8. (GH009008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.4391E+02 	    1.446939 	  0.0000E+00
+Marginal ray height    : 	      143.9078
+Chief ray height       : 	     -130.8615
+Distance to ghost pupil: 	      269.0394
+Distance to ghost focus: 	      416.4517
+Effective focal length : 	     1470.0901
+
+Ghost reflection off surface 9 then 7. (GH009007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.5562E+01 	    1.127255 	  0.0000E+00
+Marginal ray height    : 	       45.5618
+Chief ray height       : 	      -51.7912
+Distance to ghost pupil: 	       76.4163
+Distance to ghost focus: 	      102.7195
+Effective focal length : 	     1145.2914
+
+Ghost reflection off surface 9 then 6. (GH009006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6322E-01 	    3.805921 	  3.8596E+00
+Marginal ray height    : 	       -0.8632
+Chief ray height       : 	       15.0601
+Distance to ghost pupil: 	     -162.5549
+Distance to ghost focus: 	       -6.5707
+Effective focal length : 	     3866.8156
+
+Ghost reflection off surface 9 then 4. (GH009004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.0832E+02 	    0.590715 	  0.0000E+00
+Marginal ray height    : 	     -208.3175
+Chief ray height       : 	      230.1122
+Distance to ghost pupil: 	     -254.5922
+Distance to ghost focus: 	     -246.1126
+Effective focal length : 	      600.1665
+
+Ghost reflection off surface 9 then 3. (GH009003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.0438E+02 	    0.617821 	  0.0000E+00
+Marginal ray height    : 	     -204.3844
+Chief ray height       : 	      225.6235
+Distance to ghost pupil: 	     -262.8475
+Distance to ghost focus: 	     -252.5461
+Effective focal length : 	      627.7063
+
+Ghost reflection off surface 9 then 2. (GH009002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 9 then 1. (GH009001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  1.8011E+03 	   44.457428 	  1.3049E+03
+Marginal ray height    : 	     1801.0890
+Chief ray height       : 	    -1956.1839
+Distance to ghost pupil: 	  -147383.9244
+Distance to ghost focus: 	    -4226.6927
+Effective focal length : 	    -1192.1454
+
+Ghost reflection off surface 10 then 9. (GH010009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3779E+02 	    1.073520 	  0.0000E+00
+Marginal ray height    : 	     -137.7881
+Chief ray height       : 	       97.2655
+Distance to ghost pupil: 	      203.7252
+Distance to ghost focus: 	      295.8366
+Effective focal length : 	    -1090.6966
+
+Ghost reflection off surface 10 then 8. (GH010008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.0517E+01 	    5.646984 	  0.0000E+00
+Marginal ray height    : 	       80.5174
+Chief ray height       : 	      -74.9785
+Distance to ghost pupil: 	      408.9532
+Distance to ghost focus: 	      909.3614
+Effective focal length : 	     5737.3360
+
+Ghost reflection off surface 10 then 7. (GH010007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.6676E+01 	    0.566401 	  0.0000E+00
+Marginal ray height    : 	      -56.6763
+Chief ray height       : 	       34.2612
+Distance to ghost pupil: 	       49.8490
+Distance to ghost focus: 	       64.2030
+Effective focal length : 	     -575.4632
+
+Ghost reflection off surface 10 then 6. (GH010006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1274E+02 	    1.595550 	  0.0000E+00
+Marginal ray height    : 	      112.7379
+Chief ray height       : 	      -79.4687
+Distance to ghost pupil: 	      233.1463
+Distance to ghost focus: 	      359.7579
+Effective focal length : 	     1621.0790
+
+Ghost reflection off surface 10 then 4. (GH010004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.0609E+02 	    0.653593 	  0.0000E+00
+Marginal ray height    : 	      206.0941
+Chief ray height       : 	     -119.2092
+Distance to ghost pupil: 	     -288.0835
+Distance to ghost focus: 	     -269.4035
+Effective focal length : 	     -664.0510
+
+Ghost reflection off surface 10 then 3. (GH010003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.0106E+02 	    0.692194 	  0.0000E+00
+Marginal ray height    : 	      201.0594
+Chief ray height       : 	     -116.1512
+Distance to ghost pupil: 	     -300.6131
+Distance to ghost focus: 	     -278.3444
+Effective focal length : 	     -703.2696
+
+Ghost reflection off surface 10 then 2. (GH010002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 10 then 1. (GH010001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -1.5174E+03 	   28.012843 	  9.4239E+02
+Marginal ray height    : 	    -1517.4384
+Chief ray height       : 	      844.0192
+Distance to ghost pupil: 	   -75475.7056
+Distance to ghost focus: 	    -4327.6284
+Effective focal length : 	     1448.7806
+
+Ghost reflection off surface 11 then 10. (GH011010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.3255E+02 	    1.859306 	  0.0000E+00
+Marginal ray height    : 	      132.5492
+Chief ray height       : 	     -108.5957
+Distance to ghost pupil: 	      301.3904
+Distance to ghost focus: 	      492.8991
+Effective focal length : 	     1889.0551
+
+Ghost reflection off surface 11 then 9. (GH011009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.2696E+01 	    4.691514 	  0.0000E+00
+Marginal ray height    : 	       62.6961
+Chief ray height       : 	      -69.4119
+Distance to ghost pupil: 	      303.9726
+Distance to ghost focus: 	      588.2790
+Effective focal length : 	     4766.5782
+
+Ghost reflection off surface 11 then 8. (GH011008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.0185E+02 	    1.710611 	  0.0000E+00
+Marginal ray height    : 	      101.8531
+Chief ray height       : 	      -72.8952
+Distance to ghost pupil: 	      224.9381
+Distance to ghost focus: 	      348.4620
+Effective focal length : 	     1737.9811
+
+Ghost reflection off surface 11 then 7. (GH011007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.9662E+01 	    0.603208 	  0.0000E+00
+Marginal ray height    : 	       69.6621
+Chief ray height       : 	      -64.4940
+Distance to ghost pupil: 	       65.9843
+Distance to ghost focus: 	       84.0415
+Effective focal length : 	      612.8596
+
+Ghost reflection off surface 11 then 6. (GH011006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.2166E+01 	   30.788343 	  0.0000E+00
+Marginal ray height    : 	      -52.1655
+Chief ray height       : 	       57.5036
+Distance to ghost pupil: 	      526.8801
+Distance to ghost focus: 	     3212.1800
+Effective focal length : 	   -31280.9564
+
+Ghost reflection off surface 11 then 4. (GH011004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.9436E+02 	    0.429900 	  0.0000E+00
+Marginal ray height    : 	     -294.3568
+Chief ray height       : 	      268.1451
+Distance to ghost pupil: 	     -262.1498
+Distance to ghost focus: 	     -253.0883
+Effective focal length : 	      436.7789
+
+Ghost reflection off surface 11 then 3. (GH011003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.8828E+02 	    0.451309 	  0.0000E+00
+Marginal ray height    : 	     -288.2786
+Chief ray height       : 	      262.5060
+Distance to ghost pupil: 	     -271.2576
+Distance to ghost focus: 	     -260.2052
+Effective focal length : 	      458.5295
+
+Ghost reflection off surface 11 then 2. (GH011002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 11 then 1. (GH011001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  2.4246E+03 	   26.381339 	  1.7004E+03
+Marginal ray height    : 	     2424.5692
+Chief ray height       : 	    -2185.0726
+Distance to ghost pupil: 	  -122288.8204
+Distance to ghost focus: 	    -4254.9746
+Effective focal length : 	     -891.5098
+
+Ghost reflection off surface 12 then 11. (GH012011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.0113E+01 	   10.679902 	  1.4066E+01
+Marginal ray height    : 	       20.1128
+Chief ray height       : 	      -35.3270
+Distance to ghost pupil: 	      834.9785
+Distance to ghost focus: 	     -429.6053
+Effective focal length : 	   -10850.7806
+
+Ghost reflection off surface 12 then 10. (GH012010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1432E+02 	    2.011361 	  0.0000E+00
+Marginal ray height    : 	      114.3226
+Chief ray height       : 	      -86.3602
+Distance to ghost pupil: 	      280.9847
+Distance to ghost focus: 	      459.8879
+Effective focal length : 	     2043.5427
+
+Ghost reflection off surface 12 then 9. (GH012009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  7.5018E+01 	    3.072771 	  0.0000E+00
+Marginal ray height    : 	       75.0181
+Chief ray height       : 	      -77.5923
+Distance to ghost pupil: 	      269.5896
+Distance to ghost focus: 	      461.0272
+Effective focal length : 	     3121.9358
+
+Ghost reflection off surface 12 then 8. (GH012008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  7.5602E+01 	    2.095344 	  0.0000E+00
+Marginal ray height    : 	       75.6016
+Chief ray height       : 	      -44.8762
+Distance to ghost pupil: 	      194.7079
+Distance to ghost focus: 	      316.8227
+Effective focal length : 	     2128.8693
+
+Ghost reflection off surface 12 then 7. (GH012007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.8695E+01 	    0.588876 	  0.0000E+00
+Marginal ray height    : 	       68.6952
+Chief ray height       : 	      -60.4968
+Distance to ghost pupil: 	       63.5724
+Distance to ghost focus: 	       80.9060
+Effective focal length : 	      598.2983
+
+Ghost reflection off surface 12 then 6. (GH012006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.2128E+01 	    8.110964 	  0.0000E+00
+Marginal ray height    : 	      -62.1280
+Chief ray height       : 	       64.0511
+Distance to ghost pupil: 	      398.1394
+Distance to ghost focus: 	     1007.8366
+Effective focal length : 	    -8240.7391
+
+Ghost reflection off surface 12 then 4. (GH012004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.8520E+02 	    0.446683 	  0.0000E+00
+Marginal ray height    : 	     -285.1951
+Chief ray height       : 	      246.7232
+Distance to ghost pupil: 	     -264.5274
+Distance to ghost focus: 	     -254.7834
+Effective focal length : 	      453.8295
+
+Ghost reflection off surface 12 then 3. (GH012003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.7919E+02 	    0.469353 	  0.0000E+00
+Marginal ray height    : 	     -279.1876
+Chief ray height       : 	      241.4208
+Distance to ghost pupil: 	     -273.9171
+Distance to ghost focus: 	     -262.0750
+Effective focal length : 	      476.8625
+
+Ghost reflection off surface 12 then 2. (GH012002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 12 then 1. (GH012001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  2.3217E+03 	   26.234297 	  1.5983E+03
+Marginal ray height    : 	     2321.7227
+Chief ray height       : 	    -1984.1774
+Distance to ghost pupil: 	  -115966.9569
+Distance to ghost focus: 	    -4262.0841
+Effective focal length : 	     -932.5570
+
+Ghost reflection off surface 13 then 12. (GH013012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.6790E+02 	    1.260883 	  0.0000E+00
+Marginal ray height    : 	     -167.8968
+Chief ray height       : 	       91.6691
+Distance to ghost pupil: 	      270.4706
+Distance to ghost focus: 	      423.3963
+Effective focal length : 	    -1281.0568
+
+Ghost reflection off surface 13 then 11. (GH013011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.8243E+02 	    1.021581 	  0.0000E+00
+Marginal ray height    : 	     -182.4321
+Chief ray height       : 	       97.5197
+Distance to ghost pupil: 	      246.7349
+Distance to ghost focus: 	      372.7382
+Effective focal length : 	    -1037.9258
+
+Ghost reflection off surface 13 then 10. (GH013010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.9535E+01 	   51.994078 	  0.0000E+00
+Marginal ray height    : 	       69.5347
+Chief ray height       : 	      -49.7869
+Distance to ghost pupil: 	      787.2153
+Distance to ghost focus: 	    -7230.7849
+Effective focal length : 	   -52825.9831
+
+Ghost reflection off surface 13 then 9. (GH013009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.5667E+02 	    0.854850 	  0.0000E+00
+Marginal ray height    : 	     -156.6690
+Chief ray height       : 	       77.7755
+Distance to ghost pupil: 	      187.3553
+Distance to ghost focus: 	      267.8569
+Effective focal length : 	     -868.5272
+
+Ghost reflection off surface 13 then 8. (GH013008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.6427E+02 	    1.816146 	  0.0000E+00
+Marginal ray height    : 	      164.2691
+Chief ray height       : 	      -97.5030
+Distance to ghost pupil: 	      346.0523
+Distance to ghost focus: 	      596.6735
+Effective focal length : 	     1845.2044
+
+Ghost reflection off surface 13 then 7. (GH013007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.1406E+01 	    0.641517 	  0.0000E+00
+Marginal ray height    : 	      -41.4055
+Chief ray height       : 	       15.5007
+Distance to ghost pupil: 	       38.3091
+Distance to ghost focus: 	       53.1247
+Effective focal length : 	     -651.7810
+
+Ghost reflection off surface 13 then 6. (GH013006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.2773E+02 	    1.182994 	  0.0000E+00
+Marginal ray height    : 	      127.7305
+Chief ray height       : 	      -63.3096
+Distance to ghost pupil: 	      202.6659
+Distance to ghost focus: 	      302.2090
+Effective focal length : 	     1201.9222
+
+Ghost reflection off surface 13 then 4. (GH013004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.2901E+02 	    1.131471 	  0.0000E+00
+Marginal ray height    : 	      129.0139
+Chief ray height       : 	      -40.9391
+Distance to ghost pupil: 	     -356.7946
+Distance to ghost focus: 	     -291.9508
+Effective focal length : 	    -1149.5742
+
+Ghost reflection off surface 13 then 3. (GH013003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.2528E+02 	    1.213086 	  0.0000E+00
+Marginal ray height    : 	      125.2780
+Chief ray height       : 	      -39.5208
+Distance to ghost pupil: 	     -382.2652
+Distance to ghost focus: 	     -303.9458
+Effective focal length : 	    -1232.4949
+
+Ghost reflection off surface 13 then 2. (GH013002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 13 then 1. (GH013001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -8.1482E+02 	   34.228958 	  4.2322E+02
+Marginal ray height    : 	     -814.8232
+Chief ray height       : 	      204.7293
+Distance to ghost pupil: 	   -34093.9616
+Distance to ghost focus: 	    -4446.2470
+Effective focal length : 	     2772.0042
+
+Ghost reflection off surface 17 then 13. (GH017013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.7116E+01 	   37.130798 	  0.0000E+00
+Marginal ray height    : 	       67.1163
+Chief ray height       : 	       27.4882
+Distance to ghost pupil: 	    -1531.9833
+Distance to ghost focus: 	    -4984.1614
+Effective focal length : 	   -37724.8909
+
+Ghost reflection off surface 17 then 12. (GH017012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6786E+01 	    2.009667 	  0.0000E+00
+Marginal ray height    : 	      -86.7864
+Chief ray height       : 	      -78.9525
+Distance to ghost pupil: 	      261.8721
+Distance to ghost focus: 	      348.8235
+Effective focal length : 	    -2041.8220
+
+Ghost reflection off surface 17 then 11. (GH017011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6231E+01 	    1.840450 	  0.0000E+00
+Marginal ray height    : 	      -86.2305
+Chief ray height       : 	      -82.4813
+Distance to ghost pupil: 	      240.2611
+Distance to ghost focus: 	      317.4060
+Effective focal length : 	    -1869.8971
+
+Ghost reflection off surface 17 then 10. (GH017010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.1685E+01 	    5.290362 	  0.0000E+00
+Marginal ray height    : 	       81.6851
+Chief ray height       : 	       51.4409
+Distance to ghost pupil: 	      619.5741
+Distance to ghost focus: 	      864.2880
+Effective focal length : 	     5375.0077
+
+Ghost reflection off surface 17 then 9. (GH017009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.0944E+01 	    2.108348 	  0.0000E+00
+Marginal ray height    : 	      -50.9441
+Chief ray height       : 	      -61.3646
+Distance to ghost pupil: 	      181.1150
+Distance to ghost focus: 	      214.8156
+Effective focal length : 	    -2142.0816
+
+Ghost reflection off surface 17 then 8. (GH017008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1515E+02 	    2.102864 	  0.0000E+00
+Marginal ray height    : 	      115.1476
+Chief ray height       : 	       89.6357
+Distance to ghost pupil: 	      334.4124
+Distance to ghost focus: 	      484.2794
+Effective focal length : 	     2136.5103
+
+Ghost reflection off surface 17 then 7. (GH017007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.0928E+00 	    7.936298 	  4.1005E+00
+Marginal ray height    : 	        6.0928
+Chief ray height       : 	       -8.2047
+Distance to ghost pupil: 	       30.3906
+Distance to ghost focus: 	      -96.7083
+Effective focal length : 	    -8063.2792
+
+Ghost reflection off surface 17 then 6. (GH017006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.1147E+01 	    2.580568 	  0.0000E+00
+Marginal ray height    : 	       41.1473
+Chief ray height       : 	       49.8714
+Distance to ghost pupil: 	      191.8544
+Distance to ghost focus: 	      212.3670
+Effective focal length : 	     2621.8567
+
+Ghost reflection off surface 17 then 4. (GH017004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.7458E+01 	    2.277064 	  0.0000E+00
+Marginal ray height    : 	      -47.4576
+Chief ray height       : 	       13.8980
+Distance to ghost pupil: 	     -798.0499
+Distance to ghost focus: 	     -216.1280
+Effective focal length : 	     2313.4973
+
+Ghost reflection off surface 17 then 3. (GH017003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6984E+01 	    2.344018 	  0.0000E+00
+Marginal ray height    : 	      -46.9842
+Chief ray height       : 	       13.1264
+Distance to ghost pupil: 	    -1091.0863
+Distance to ghost focus: 	     -220.2634
+Effective focal length : 	     2381.5224
+
+Ghost reflection off surface 17 then 2. (GH017002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 17 then 1. (GH017001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  5.0803E+02 	 6402.221699 	  3.5924E+02
+Marginal ray height    : 	      508.0253
+Chief ray height       : 	       -2.4299
+Distance to ghost pupil: 	     -644.9680
+Distance to ghost focus: 	    -4120.6141
+Effective focal length : 	    -4120.4085
+
+Ghost reflection off surface 18 then 17. (GH018017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6630E-02 	    4.565494 	  1.8404E-02
+Marginal ray height    : 	       -0.0466
+Chief ray height       : 	      -17.3456
+Distance to ghost pupil: 	     -529.7322
+Distance to ghost focus: 	        0.4258
+Effective focal length : 	    -4638.5416
+
+Ghost reflection off surface 18 then 13. (GH018013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.7058E+01 	   37.163799 	  0.0000E+00
+Marginal ray height    : 	       67.0579
+Chief ray height       : 	       33.0790
+Distance to ghost pupil: 	    -2224.1957
+Distance to ghost focus: 	    -4984.2561
+Effective focal length : 	   -37758.4194
+
+Ghost reflection off surface 18 then 12. (GH018012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6711E+01 	    2.011423 	  0.0000E+00
+Marginal ray height    : 	      -86.7106
+Chief ray height       : 	      -86.2193
+Distance to ghost pupil: 	      260.0280
+Distance to ghost focus: 	      348.8233
+Effective focal length : 	    -2043.6054
+
+Ghost reflection off surface 18 then 11. (GH018011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6155E+01 	    1.842058 	  0.0000E+00
+Marginal ray height    : 	      -86.1552
+Chief ray height       : 	      -89.7051
+Distance to ghost pupil: 	      238.8316
+Distance to ghost focus: 	      317.4057
+Effective focal length : 	    -1871.5313
+
+Ghost reflection off surface 18 then 10. (GH018010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.1614E+01 	    5.294962 	  0.0000E+00
+Marginal ray height    : 	       81.6140
+Chief ray height       : 	       58.2608
+Distance to ghost pupil: 	      596.8322
+Distance to ghost focus: 	      864.2861
+Effective focal length : 	     5379.6813
+
+Ghost reflection off surface 18 then 9. (GH018009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.0899E+01 	    2.110194 	  0.0000E+00
+Marginal ray height    : 	      -50.8994
+Chief ray height       : 	      -65.6433
+Distance to ghost pupil: 	      179.6277
+Distance to ghost focus: 	      214.8153
+Effective focal length : 	    -2143.9570
+
+Ghost reflection off surface 18 then 8. (GH018008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1505E+02 	    2.104699 	  0.0000E+00
+Marginal ray height    : 	      115.0471
+Chief ray height       : 	       99.2642
+Distance to ghost pupil: 	      332.1102
+Distance to ghost focus: 	      484.2791
+Effective focal length : 	     2138.3743
+
+Ghost reflection off surface 18 then 7. (GH018007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.0876E+00 	    7.943430 	  4.0972E+00
+Marginal ray height    : 	        6.0876
+Chief ray height       : 	       -7.7064
+Distance to ghost pupil: 	       27.9590
+Distance to ghost focus: 	      -96.7127
+Effective focal length : 	    -8070.5253
+
+Ghost reflection off surface 18 then 6. (GH018006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.1111E+01 	    2.582825 	  0.0000E+00
+Marginal ray height    : 	       41.1113
+Chief ray height       : 	       53.3275
+Distance to ghost pupil: 	      189.3388
+Distance to ghost focus: 	      212.3665
+Effective focal length : 	     2624.1504
+
+Ghost reflection off surface 18 then 4. (GH018004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.7417E+01 	    2.279034 	  0.0000E+00
+Marginal ray height    : 	      -47.4167
+Chief ray height       : 	        9.9736
+Distance to ghost pupil: 	    12404.7571
+Distance to ghost focus: 	     -216.1283
+Effective focal length : 	     2315.4986
+
+Ghost reflection off surface 18 then 3. (GH018003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6944E+01 	    2.346046 	  0.0000E+00
+Marginal ray height    : 	      -46.9436
+Chief ray height       : 	        9.2407
+Distance to ghost pupil: 	     1646.9871
+Distance to ghost focus: 	     -220.2638
+Effective focal length : 	     2383.5829
+
+Ghost reflection off surface 18 then 2. (GH018002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 18 then 1. (GH018001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  5.0759E+02 	 6404.992710 	  3.5894E+02
+Marginal ray height    : 	      507.5858
+Chief ray height       : 	       39.7063
+Distance to ghost pupil: 	    10620.6079
+Distance to ghost focus: 	    -4120.6153
+Effective focal length : 	    -4123.9779
+
+Ghost reflection off surface 20 then 18. (GH020018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.5720E-02 	    4.583754 	  0.0000E+00
+Marginal ray height    : 	       -0.0457
+Chief ray height       : 	      -17.4328
+Distance to ghost pupil: 	     7965.7509
+Distance to ghost focus: 	        0.4191
+Effective focal length : 	    -4657.0943
+
+Ghost reflection off surface 20 then 17. (GH020017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.5523E-02 	    4.587725 	  0.0000E+00
+Marginal ray height    : 	       -0.0455
+Chief ray height       : 	      -17.4517
+Distance to ghost pupil: 	     1552.9027
+Distance to ghost focus: 	        0.4177
+Effective focal length : 	    -4661.1283
+
+Ghost reflection off surface 20 then 13. (GH020013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.6730E+01 	   37.350405 	  0.0000E+00
+Marginal ray height    : 	       66.7301
+Chief ray height       : 	       64.5069
+Distance to ghost pupil: 	    -1556.7863
+Distance to ghost focus: 	    -4984.7919
+Effective focal length : 	   -37948.0119
+
+Ghost reflection off surface 20 then 12. (GH020012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6284E+01 	    2.021348 	  0.0000E+00
+Marginal ray height    : 	      -86.2844
+Chief ray height       : 	     -127.0692
+Distance to ghost pupil: 	      371.2827
+Distance to ghost focus: 	      348.8217
+Effective focal length : 	    -2053.6893
+
+Ghost reflection off surface 20 then 11. (GH020011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.5732E+01 	    1.851153 	  0.0000E+00
+Marginal ray height    : 	      -85.7316
+Chief ray height       : 	     -130.3130
+Distance to ghost pupil: 	      335.5308
+Distance to ghost focus: 	      317.4044
+Effective focal length : 	    -1880.7713
+
+Ghost reflection off surface 20 then 10. (GH020010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.1214E+01 	    5.320970 	  0.0000E+00
+Marginal ray height    : 	       81.2141
+Chief ray height       : 	       96.5983
+Distance to ghost pupil: 	     1093.3014
+Distance to ghost focus: 	      864.2752
+Effective focal length : 	     5406.1055
+
+Ghost reflection off surface 20 then 9. (GH020009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.0649E+01 	    2.120631 	  0.0000E+00
+Marginal ray height    : 	      -50.6485
+Chief ray height       : 	      -89.6954
+Distance to ghost pupil: 	      236.0361
+Distance to ghost focus: 	      214.8136
+Effective focal length : 	    -2154.5609
+
+Ghost reflection off surface 20 then 8. (GH020008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1448E+02 	    2.115072 	  0.0000E+00
+Marginal ray height    : 	      114.4825
+Chief ray height       : 	      153.3899
+Distance to ghost pupil: 	      511.0776
+Distance to ghost focus: 	      484.2774
+Effective focal length : 	     2148.9134
+
+Ghost reflection off surface 20 then 7. (GH020007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.0584E+00 	    7.983762 	  0.0000E+00
+Marginal ray height    : 	        6.0584
+Chief ray height       : 	       -4.9054
+Distance to ghost pupil: 	       18.6411
+Distance to ghost focus: 	      -96.7371
+Effective focal length : 	    -8111.5022
+
+Ghost reflection off surface 20 then 6. (GH020006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0909E+01 	    2.595590 	  0.0000E+00
+Marginal ray height    : 	       40.9086
+Chief ray height       : 	       72.7559
+Distance to ghost pupil: 	      245.6985
+Distance to ghost focus: 	      212.3639
+Effective focal length : 	     2637.1193
+
+Ghost reflection off surface 20 then 4. (GH020004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.7187E+01 	    2.290170 	  0.0000E+00
+Marginal ray height    : 	      -47.1865
+Chief ray height       : 	      -12.0868
+Distance to ghost pupil: 	     -125.6151
+Distance to ghost focus: 	     -216.1303
+Effective focal length : 	     2326.8132
+
+Ghost reflection off surface 20 then 3. (GH020003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6716E+01 	    2.357513 	  0.0000E+00
+Marginal ray height    : 	      -46.7157
+Chief ray height       : 	      -12.6028
+Distance to ghost pupil: 	     -128.7054
+Distance to ghost focus: 	     -220.2659
+Effective focal length : 	     2395.2328
+
+Ghost reflection off surface 20 then 2. (GH020002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 20 then 1. (GH020001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  5.0511E+02 	 6420.614437 	  0.0000E+00
+Marginal ray height    : 	      505.1148
+Chief ray height       : 	      276.5711
+Distance to ghost pupil: 	    74310.5500
+Distance to ghost focus: 	    -4120.6217
+Effective focal length : 	    -4144.1585
+
+Ghost reflection off surface 23 then 20. (GH023020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.5862E-02 	    4.580903 	  0.0000E+00
+Marginal ray height    : 	       -0.0459
+Chief ray height       : 	      -17.4193
+Distance to ghost pupil: 	    -4033.5848
+Distance to ghost focus: 	        0.4202
+Effective focal length : 	    -4654.1979
+
+Ghost reflection off surface 23 then 18. (GH023018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.4755E-02 	    4.603285 	  0.0000E+00
+Marginal ray height    : 	       -0.0448
+Chief ray height       : 	      -17.5254
+Distance to ghost pupil: 	      376.4592
+Distance to ghost focus: 	        0.4120
+Effective focal length : 	    -4676.9378
+
+Ghost reflection off surface 23 then 17. (GH023017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.4558E-02 	    4.607290 	  0.0000E+00
+Marginal ray height    : 	       -0.0446
+Chief ray height       : 	      -17.5442
+Distance to ghost pupil: 	      315.5280
+Distance to ghost focus: 	        0.4106
+Effective focal length : 	    -4681.0063
+
+Ghost reflection off surface 23 then 13. (GH023013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.6444E+01 	   37.514680 	  0.0000E+00
+Marginal ray height    : 	       66.4442
+Chief ray height       : 	       91.9149
+Distance to ghost pupil: 	    -1953.3444
+Distance to ghost focus: 	    -4985.2635
+Effective focal length : 	   -38114.9145
+
+Ghost reflection off surface 23 then 12. (GH023012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.5913E+01 	    2.030084 	  0.0000E+00
+Marginal ray height    : 	      -85.9128
+Chief ray height       : 	     -162.6939
+Distance to ghost pupil: 	      366.1976
+Distance to ghost focus: 	      348.8203
+Effective focal length : 	    -2062.5649
+
+Ghost reflection off surface 23 then 11. (GH023011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.5362E+01 	    1.859158 	  0.0000E+00
+Marginal ray height    : 	      -85.3621
+Chief ray height       : 	     -165.7267
+Distance to ghost pupil: 	      331.5480
+Distance to ghost focus: 	      317.4033
+Effective focal length : 	    -1888.9041
+
+Ghost reflection off surface 23 then 10. (GH023010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.0865E+01 	    5.343861 	  0.0000E+00
+Marginal ray height    : 	       80.8653
+Chief ray height       : 	      130.0320
+Distance to ghost pupil: 	     1024.3623
+Distance to ghost focus: 	      864.2657
+Effective focal length : 	     5429.3625
+
+Ghost reflection off surface 23 then 9. (GH023009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.0430E+01 	    2.129817 	  0.0000E+00
+Marginal ray height    : 	      -50.4297
+Chief ray height       : 	     -110.6710
+Distance to ghost pupil: 	      231.7749
+Distance to ghost focus: 	      214.8121
+Effective focal length : 	    -2163.8944
+
+Ghost reflection off surface 23 then 8. (GH023008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1399E+02 	    2.124202 	  0.0000E+00
+Marginal ray height    : 	      113.9900
+Chief ray height       : 	      200.5925
+Distance to ghost pupil: 	      504.5971
+Distance to ghost focus: 	      484.2759
+Effective focal length : 	     2158.1896
+
+Ghost reflection off surface 23 then 7. (GH023007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.0329E+00 	    8.019271 	  0.0000E+00
+Marginal ray height    : 	        6.0329
+Chief ray height       : 	       -2.4627
+Distance to ghost pupil: 	        8.5000
+Distance to ghost focus: 	      -96.7587
+Effective focal length : 	    -8147.5788
+
+Ghost reflection off surface 23 then 6. (GH023006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0732E+01 	    2.606825 	  0.0000E+00
+Marginal ray height    : 	       40.7319
+Chief ray height       : 	       89.6991
+Distance to ghost pupil: 	      238.7486
+Distance to ghost focus: 	      212.3617
+Effective focal length : 	     2648.5345
+
+Ghost reflection off surface 23 then 4. (GH023004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6986E+01 	    2.299972 	  0.0000E+00
+Marginal ray height    : 	      -46.9858
+Chief ray height       : 	      -31.3255
+Distance to ghost pupil: 	     -168.9560
+Distance to ghost focus: 	     -216.1321
+Effective focal length : 	     2336.7713
+
+Ghost reflection off surface 23 then 3. (GH023003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.6517E+01 	    2.367604 	  0.0000E+00
+Marginal ray height    : 	      -46.5170
+Chief ray height       : 	      -31.6522
+Distance to ghost pupil: 	     -171.4860
+Distance to ghost focus: 	     -220.2678
+Effective focal length : 	     2405.4859
+
+Ghost reflection off surface 23 then 2. (GH023002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 23 then 1. (GH023001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  5.0296E+02 	 6434.300318 	  0.0000E+00
+Marginal ray height    : 	      502.9599
+Chief ray height       : 	      483.1385
+Distance to ghost pupil: 	   130368.2935
+Distance to ghost focus: 	    -4120.6273
+Effective focal length : 	    -4161.9197
+
+Ghost reflection off surface 25 then 23. (GH025023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.2064E+01 	    5.679382 	  0.0000E+00
+Marginal ray height    : 	      -62.0641
+Chief ray height       : 	      -73.4829
+Distance to ghost pupil: 	     -544.8313
+Distance to ghost focus: 	     -704.9715
+Effective focal length : 	     5770.2518
+
+Ghost reflection off surface 25 then 20. (GH025020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.2395E+01 	    7.100495 	  0.0000E+00
+Marginal ray height    : 	      -62.3946
+Chief ray height       : 	      -73.8746
+Distance to ghost pupil: 	     1396.5338
+Distance to ghost focus: 	      886.0655
+Effective focal length : 	    -7214.1025
+
+Ghost reflection off surface 25 then 18. (GH025018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.2774E+01 	    1.983231 	  0.0000E+00
+Marginal ray height    : 	      -62.7736
+Chief ray height       : 	      -74.3237
+Distance to ghost pupil: 	      251.2786
+Distance to ghost focus: 	      248.9892
+Effective focal length : 	    -2014.9625
+
+Ghost reflection off surface 25 then 17. (GH025017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.2841E+01 	    1.757864 	  0.0000E+00
+Marginal ray height    : 	      -62.8411
+Chief ray height       : 	      -74.4036
+Distance to ghost pupil: 	      218.9242
+Distance to ghost focus: 	      220.9321
+Effective focal length : 	    -1785.9900
+
+Ghost reflection off surface 25 then 13. (GH025013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8132E+02 	    2.794272 	  0.0000E+00
+Marginal ray height    : 	      381.3207
+Chief ray height       : 	      432.9974
+Distance to ghost pupil: 	   -11469.2308
+Distance to ghost focus: 	    -2131.0271
+Effective focal length : 	    -2838.9799
+
+Ghost reflection off surface 25 then 12. (GH025012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.5002E+02 	    0.280231 	  0.0000E+00
+Marginal ray height    : 	     -650.0175
+Chief ray height       : 	     -745.7483
+Distance to ghost pupil: 	      255.2367
+Distance to ghost focus: 	      364.3103
+Effective focal length : 	     -284.7148
+
+Ghost reflection off surface 25 then 11. (GH025011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.6044E+02 	    0.249873 	  0.0000E+00
+Marginal ray height    : 	     -660.4410
+Chief ray height       : 	     -758.2456
+Distance to ghost pupil: 	      237.2724
+Distance to ghost focus: 	      330.0522
+Effective focal length : 	     -253.8706
+
+Ghost reflection off surface 25 then 10. (GH025010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.2912E+02 	    0.946894 	  0.0000E+00
+Marginal ray height    : 	      529.1209
+Chief ray height       : 	      603.9932
+Distance to ghost pupil: 	      546.2032
+Distance to ghost focus: 	     1002.0426
+Effective focal length : 	      962.0440
+
+Ghost reflection off surface 25 then 9. (GH025009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.3586E+02 	    0.263982 	  0.0000E+00
+Marginal ray height    : 	     -435.8648
+Chief ray height       : 	     -502.0617
+Distance to ghost pupil: 	      177.0211
+Distance to ghost focus: 	      230.1207
+Effective focal length : 	     -268.2055
+
+Ghost reflection off surface 25 then 8. (GH025008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.0778E+02 	    0.310887 	  0.0000E+00
+Marginal ray height    : 	      807.7801
+Chief ray height       : 	      924.7267
+Distance to ghost pupil: 	      324.7569
+Distance to ghost focus: 	      502.2571
+Effective focal length : 	      315.8615
+
+Ghost reflection off surface 25 then 7. (GH025007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.0697E+00 	    0.460292 	  0.0000E+00
+Marginal ray height    : 	       -4.0697
+Chief ray height       : 	       -6.5045
+Distance to ghost pupil: 	        6.9861
+Distance to ghost focus: 	        3.7465
+Effective focal length : 	     -467.6566
+
+Ghost reflection off surface 25 then 6. (GH025006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.5316E+02 	    0.334251 	  0.0000E+00
+Marginal ray height    : 	      353.1580
+Chief ray height       : 	      406.8297
+Distance to ghost pupil: 	      170.9969
+Distance to ghost focus: 	      236.0866
+Effective focal length : 	      339.5986
+
+Ghost reflection off surface 25 then 4. (GH025004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.4911E+02 	    0.598966 	  0.0000E+00
+Marginal ray height    : 	     -149.1090
+Chief ray height       : 	     -163.4490
+Distance to ghost pupil: 	     -163.4680
+Distance to ghost focus: 	     -178.6223
+Effective focal length : 	      608.5490
+
+Ghost reflection off surface 25 then 3. (GH025003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.4991E+02 	    0.604657 	  0.0000E+00
+Marginal ray height    : 	     -149.9098
+Chief ray height       : 	     -164.5282
+Distance to ghost pupil: 	     -166.3816
+Distance to ghost focus: 	     -181.2881
+Effective focal length : 	      614.3320
+
+Ghost reflection off surface 25 then 2. (GH025002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 25 then 1. (GH025001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  2.1253E+03 	   37.862568 	  0.0000E+00
+Marginal ray height    : 	     2125.2946
+Chief ray height       : 	     2376.2654
+Distance to ghost pupil: 	   133541.0684
+Distance to ghost focus: 	    -4015.2650
+Effective focal length : 	     -959.7515
+
+Ghost reflection off surface 26 then 25. (GH026025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  7.8457E+01 	    0.672126 	  0.0000E+00
+Marginal ray height    : 	       78.4571
+Chief ray height       : 	       74.5775
+Distance to ghost pupil: 	     -102.1622
+Distance to ghost focus: 	     -105.4662
+Effective focal length : 	     -682.8805
+
+Ghost reflection off surface 26 then 23. (GH026023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.7645E+01 	    2.597079 	  0.0000E+00
+Marginal ray height    : 	       37.6450
+Chief ray height       : 	       22.1210
+Distance to ghost pupil: 	     -135.1791
+Distance to ghost focus: 	     -195.5343
+Effective focal length : 	    -2638.6326
+
+Ghost reflection off surface 26 then 20. (GH026020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.7847E+01 	    5.226080 	  0.0000E+00
+Marginal ray height    : 	       37.8471
+Chief ray height       : 	       22.2402
+Distance to ghost pupil: 	     -208.9016
+Distance to ghost focus: 	     -395.5835
+Effective focal length : 	    -5309.6975
+
+Ghost reflection off surface 26 then 18. (GH026018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8079E+01 	   32.507492 	  0.0000E+00
+Marginal ray height    : 	       38.0787
+Chief ray height       : 	       22.3770
+Distance to ghost pupil: 	    -1081.6332
+Distance to ghost focus: 	     2475.6864
+Effective focal length : 	    33027.6123
+
+Ghost reflection off surface 26 then 17. (GH026017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8120E+01 	   14.230086 	  0.0000E+00
+Marginal ray height    : 	       38.1199
+Chief ray height       : 	       22.4013
+Distance to ghost pupil: 	    -3356.3079
+Distance to ghost focus: 	     1084.8993
+Effective focal length : 	    14457.7677
+
+Ghost reflection off surface 26 then 13. (GH026013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.4737E+02 	    5.446655 	  0.0000E+00
+Marginal ray height    : 	     -147.3721
+Chief ray height       : 	      -56.1311
+Distance to ghost pupil: 	     -502.1841
+Distance to ghost focus: 	    -1605.3696
+Effective focal length : 	     5533.8010
+
+Ghost reflection off surface 26 then 12. (GH026012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.8591E+02 	    0.648072 	  0.0000E+00
+Marginal ray height    : 	      285.9119
+Chief ray height       : 	      128.6672
+Distance to ghost pupil: 	      377.8199
+Distance to ghost focus: 	      370.5828
+Effective focal length : 	      658.4408
+
+Ghost reflection off surface 26 then 11. (GH026011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.9294E+02 	    0.571761 	  0.0000E+00
+Marginal ray height    : 	      292.9428
+Chief ray height       : 	      133.0559
+Distance to ghost pupil: 	      340.5520
+Distance to ghost focus: 	      334.9867
+Effective focal length : 	      580.9094
+
+Ghost reflection off surface 26 then 10. (GH026010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.1887E+02 	    2.473974 	  0.0000E+00
+Marginal ray height    : 	     -218.8690
+Chief ray height       : 	      -91.5540
+Distance to ghost pupil: 	     1206.9874
+Distance to ghost focus: 	     1082.9523
+Effective focal length : 	    -2513.5579
+
+Ghost reflection off surface 26 then 9. (GH026009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.0082E+02 	    0.586255 	  0.0000E+00
+Marginal ray height    : 	      200.8221
+Chief ray height       : 	       94.9337
+Distance to ghost pupil: 	      241.1288
+Distance to ghost focus: 	      235.4659
+Effective focal length : 	      595.6350
+
+Ghost reflection off surface 26 then 8. (GH026008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.4614E+02 	    0.736945 	  0.0000E+00
+Marginal ray height    : 	     -346.1384
+Chief ray height       : 	     -151.1816
+Distance to ghost pupil: 	      519.8062
+Distance to ghost focus: 	      510.1701
+Effective focal length : 	     -748.7364
+
+Ghost reflection off surface 26 then 7. (GH026007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.0125E+01 	    0.860843 	  0.0000E+00
+Marginal ray height    : 	       10.1250
+Chief ray height       : 	        8.7294
+Distance to ghost pupil: 	       22.8875
+Distance to ghost focus: 	       17.4320
+Effective focal length : 	      874.6162
+
+Ghost reflection off surface 26 then 6. (GH026006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.6288E+02 	    0.751359 	  0.0000E+00
+Marginal ray height    : 	     -162.8786
+Chief ray height       : 	      -77.0748
+Distance to ghost pupil: 	     -246.7955
+Distance to ghost focus: 	      244.7607
+Effective focal length : 	     -763.3808
+
+Ghost reflection off surface 26 then 4. (GH026004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.0984E+01 	    2.161036 	  0.0000E+00
+Marginal ray height    : 	       30.9842
+Chief ray height       : 	       -3.3800
+Distance to ghost pupil: 	       21.8394
+Distance to ghost focus: 	     -133.9161
+Effective focal length : 	    -2195.6127
+
+Ghost reflection off surface 26 then 3. (GH026003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.2065E+01 	    2.132432 	  0.0000E+00
+Marginal ray height    : 	       32.0653
+Chief ray height       : 	       -2.5286
+Distance to ghost pupil: 	        7.3343
+Distance to ghost focus: 	     -136.7544
+Effective focal length : 	    -2166.5514
+
+Ghost reflection off surface 26 then 2. (GH026002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 26 then 1. (GH026001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -6.5314E+02 	   61.567932 	  0.0000E+00
+Marginal ray height    : 	     -653.1376
+Chief ray height       : 	     -152.9024
+Distance to ghost pupil: 	    36426.9777
+Distance to ghost focus: 	    -3917.4208
+Effective focal length : 	     3046.9074
+
+Ghost reflection off surface 27 then 26. (GH027026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.1925E+01 	    1.771910 	  1.6586E+01
+Marginal ray height    : 	       21.9245
+Chief ray height       : 	        3.9381
+Distance to ghost pupil: 	      -33.1097
+Distance to ghost focus: 	      -77.6966
+Effective focal length : 	    -1800.2611
+
+Ghost reflection off surface 27 then 25. (GH027025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.2923E+01 	    0.883673 	  0.0000E+00
+Marginal ray height    : 	       62.9232
+Chief ray height       : 	       73.1469
+Distance to ghost pupil: 	     -106.5242
+Distance to ghost focus: 	     -111.2070
+Effective focal length : 	     -897.8118
+
+Ghost reflection off surface 27 then 23. (GH027023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.7554E+01 	    2.793129 	  0.0000E+00
+Marginal ray height    : 	       47.5539
+Chief ray height       : 	       38.2450
+Distance to ghost pupil: 	     -207.9046
+Distance to ghost focus: 	     -265.6483
+Effective focal length : 	    -2837.8193
+
+Ghost reflection off surface 27 then 20. (GH027020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.7808E+01 	    8.770557 	  0.0000E+00
+Marginal ray height    : 	       47.8084
+Chief ray height       : 	       38.4501
+Distance to ghost pupil: 	     -449.0635
+Distance to ghost focus: 	     -838.6119
+Effective focal length : 	    -8910.8855
+
+Ghost reflection off surface 27 then 18. (GH027018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.8100E+01 	    6.032309 	  0.0000E+00
+Marginal ray height    : 	       48.1002
+Chief ray height       : 	       38.6853
+Distance to ghost pupil: 	      626.2417
+Distance to ghost focus: 	      580.3102
+Effective focal length : 	     6128.8261
+
+Ghost reflection off surface 27 then 17. (GH027017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.8152E+01 	    4.639368 	  0.0000E+00
+Marginal ray height    : 	       48.1521
+Chief ray height       : 	       38.7271
+Distance to ghost pupil: 	      450.2405
+Distance to ghost focus: 	      446.7905
+Effective focal length : 	     4713.5982
+
+Ghost reflection off surface 27 then 13. (GH027013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.2488E+02 	    4.042560 	  0.0000E+00
+Marginal ray height    : 	     -224.8811
+Chief ray height       : 	     -156.7404
+Distance to ghost pupil: 	     -499.0076
+Distance to ghost focus: 	    -1818.1907
+Effective focal length : 	     4107.2415
+
+Ghost reflection off surface 27 then 12. (GH027012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.1116E+02 	    0.447246 	  0.0000E+00
+Marginal ray height    : 	      411.1624
+Chief ray height       : 	      299.5323
+Distance to ghost pupil: 	      369.8816
+Distance to ghost focus: 	      367.7813
+Effective focal length : 	      454.4017
+
+Ghost reflection off surface 27 then 11. (GH027011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.1972E+02 	    0.396452 	  0.0000E+00
+Marginal ray height    : 	      419.7171
+Chief ray height       : 	      306.6160
+Distance to ghost pupil: 	      334.4402
+Distance to ghost focus: 	      332.7957
+Effective focal length : 	      402.7957
+
+Ghost reflection off surface 27 then 10. (GH027010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.2357E+02 	    1.613803 	  0.0000E+00
+Marginal ray height    : 	     -323.5719
+Chief ray height       : 	     -230.8950
+Distance to ghost pupil: 	     1072.8798
+Distance to ghost focus: 	     1044.3624
+Effective focal length : 	    -1639.6236
+
+Ghost reflection off surface 27 then 9. (GH027009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.8300E+02 	    0.411889 	  0.0000E+00
+Marginal ray height    : 	      283.0036
+Chief ray height       : 	      209.3386
+Distance to ghost pupil: 	      234.8896
+Distance to ghost focus: 	      233.1320
+Effective focal length : 	      418.4789
+
+Ghost reflection off surface 27 then 8. (GH027008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.0360E+02 	    0.502962 	  0.0000E+00
+Marginal ray height    : 	     -503.6041
+Chief ray height       : 	     -363.6852
+Distance to ghost pupil: 	      509.2659
+Distance to ghost focus: 	      506.5875
+Effective focal length : 	     -511.0094
+
+Ghost reflection off surface 27 then 7. (GH027007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  9.2575E+00 	    0.649586 	  0.0000E+00
+Marginal ray height    : 	        9.2575
+Chief ray height       : 	        9.6459
+Distance to ghost pupil: 	       14.9567
+Distance to ghost focus: 	       12.0271
+Effective focal length : 	      659.9798
+
+Ghost reflection off surface 27 then 6. (GH027006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.2943E+02 	    0.525092 	  0.0000E+00
+Marginal ray height    : 	     -229.4335
+Chief ray height       : 	     -169.7680
+Distance to ghost pupil: 	     -105.5277
+Distance to ghost focus: 	      240.9473
+Effective focal length : 	     -533.4931
+
+Ghost reflection off surface 27 then 4. (GH027004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.6572E+01 	    1.192940 	  0.0000E+00
+Marginal ray height    : 	       66.5724
+Chief ray height       : 	       36.4516
+Distance to ghost pupil: 	     -125.8085
+Distance to ghost focus: 	     -158.8338
+Effective focal length : 	    -1212.0274
+
+Ghost reflection off surface 27 then 3. (GH027003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.7663E+01 	    1.192117 	  0.0000E+00
+Marginal ray height    : 	       67.6634
+Chief ray height       : 	       37.5002
+Distance to ghost pupil: 	     -128.8529
+Distance to ghost focus: 	     -161.3254
+Effective focal length : 	    -1211.1909
+
+Ghost reflection off surface 27 then 2. (GH027002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 27 then 1. (GH027001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -1.1185E+03 	   48.983965 	  0.0000E+00
+Marginal ray height    : 	    -1118.4736
+Chief ray height       : 	     -716.7441
+Distance to ghost pupil: 	    82240.4916
+Distance to ghost focus: 	    -3968.8492
+Effective focal length : 	     1802.6133
+
+Ghost reflection off surface 28 then 27. (GH028027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -9.5178E+01 	    0.604690 	  0.0000E+00
+Marginal ray height    : 	      -95.1782
+Chief ray height       : 	     -158.4767
+Distance to ghost pupil: 	     -113.5194
+Distance to ghost focus: 	     -115.1066
+Effective focal length : 	      614.3652
+
+Ghost reflection off surface 28 then 26. (GH028026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -9.0079E+01 	    0.733394 	  0.0000E+00
+Marginal ray height    : 	      -90.0792
+Chief ray height       : 	     -153.9759
+Distance to ghost pupil: 	     -129.8414
+Distance to ghost focus: 	     -132.1271
+Effective focal length : 	      745.1282
+
+Ghost reflection off surface 28 then 25. (GH028025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.2047E+01 	    0.552976 	  0.0000E+00
+Marginal ray height    : 	       82.0467
+Chief ray height       : 	      125.1932
+Distance to ghost pupil: 	      -89.2925
+Distance to ghost focus: 	      -90.7397
+Effective focal length : 	     -561.8237
+
+Ghost reflection off surface 28 then 23. (GH028023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.1807E+01 	    4.976743 	  0.0000E+00
+Marginal ray height    : 	      -31.8067
+Chief ray height       : 	      -61.5980
+Distance to ghost pupil: 	      457.0063
+Distance to ghost focus: 	      316.5877
+Effective focal length : 	    -5056.3711
+
+Ghost reflection off surface 28 then 20. (GH028020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.1974E+01 	    2.763962 	  0.0000E+00
+Marginal ray height    : 	      -31.9745
+Chief ray height       : 	      -61.9236
+Distance to ghost pupil: 	      212.8897
+Distance to ghost focus: 	      176.7525
+Effective focal length : 	    -2808.1852
+
+Ghost reflection off surface 28 then 18. (GH028018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.2167E+01 	    1.830635 	  0.0000E+00
+Marginal ray height    : 	      -32.1669
+Chief ray height       : 	      -62.2969
+Distance to ghost pupil: 	      123.5270
+Distance to ghost focus: 	      117.7716
+Effective focal length : 	    -1859.9248
+
+Ghost reflection off surface 28 then 17. (GH028017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.2201E+01 	    1.726900 	  0.0000E+00
+Marginal ray height    : 	      -32.2011
+Chief ray height       : 	      -62.3633
+Distance to ghost pupil: 	      115.1660
+Distance to ghost focus: 	      111.2161
+Effective focal length : 	    -1754.5303
+
+Ghost reflection off surface 28 then 13. (GH028013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.8323E+02 	    4.578145 	  0.0000E+00
+Marginal ray height    : 	      283.2350
+Chief ray height       : 	      512.4625
+Distance to ghost pupil: 	    -1010.4107
+Distance to ghost focus: 	    -2593.3820
+Effective focal length : 	    -4651.3958
+
+Ghost reflection off surface 28 then 12. (GH028012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.4651E+02 	    0.403378 	  0.0000E+00
+Marginal ray height    : 	     -446.5105
+Chief ray height       : 	     -818.1661
+Distance to ghost pupil: 	      202.6913
+Distance to ghost focus: 	      360.2248
+Effective focal length : 	     -409.8318
+
+Ghost reflection off surface 28 then 11. (GH028011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.5111E+02 	    0.362196 	  0.0000E+00
+Marginal ray height    : 	     -451.1109
+Chief ray height       : 	     -827.3800
+Distance to ghost pupil: 	      189.2979
+Distance to ghost focus: 	      326.7812
+Effective focal length : 	     -367.9912
+
+Ghost reflection off surface 28 then 10. (GH028010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.7797E+02 	    1.268133 	  0.0000E+00
+Marginal ray height    : 	      377.9743
+Chief ray height       : 	      688.1381
+Distance to ghost pupil: 	      918.0455
+Distance to ghost focus: 	      958.6432
+Effective focal length : 	     1288.4231
+
+Ghost reflection off surface 28 then 9. (GH028009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.8988E+02 	    0.390503 	  0.0000E+00
+Marginal ray height    : 	     -289.8758
+Chief ray height       : 	     -534.0750
+Distance to ghost pupil: 	      150.4568
+Distance to ghost focus: 	      226.3950
+Effective focal length : 	     -396.7514
+
+Ghost reflection off surface 28 then 8. (GH028008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.6447E+02 	    0.440507 	  0.0000E+00
+Marginal ray height    : 	      564.4722
+Chief ray height       : 	     1031.3756
+Distance to ghost pupil: 	      947.4679
+Distance to ghost focus: 	      497.3074
+Effective focal length : 	      447.5547
+
+Ghost reflection off surface 28 then 7. (GH028007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.9264E+00 	    0.783249 	  0.0000E+00
+Marginal ray height    : 	        5.9264
+Chief ray height       : 	        8.1873
+Distance to ghost pupil: 	       -2.3503
+Distance to ghost focus: 	       -9.2837
+Effective focal length : 	     -795.7814
+
+Ghost reflection off surface 28 then 6. (GH028006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.3470E+02 	    0.490334 	  0.0000E+00
+Marginal ray height    : 	      234.7002
+Chief ray height       : 	      432.4719
+Distance to ghost pupil: 	      188.7354
+Distance to ghost focus: 	      230.1630
+Effective focal length : 	      498.1795
+
+Ghost reflection off surface 28 then 4. (GH028004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3863E+02 	    0.698778 	  0.0000E+00
+Marginal ray height    : 	     -138.6346
+Chief ray height       : 	     -242.9351
+Distance to ghost pupil: 	     -183.5283
+Distance to ghost focus: 	     -193.7495
+Effective focal length : 	      709.9581
+
+Ghost reflection off surface 28 then 3. (GH028003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3842E+02 	    0.710962 	  0.0000E+00
+Marginal ray height    : 	     -138.4219
+Chief ray height       : 	     -242.7791
+Distance to ghost pupil: 	     -186.9838
+Distance to ghost focus: 	     -196.8253
+Effective focal length : 	      722.3370
+
+Ghost reflection off surface 28 then 2. (GH028002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 28 then 1. (GH028001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  1.7547E+03 	   75.173497 	  0.0000E+00
+Marginal ray height    : 	     1754.6677
+Chief ray height       : 	     3124.8741
+Distance to ghost pupil: 	   211169.2380
+Distance to ghost focus: 	    -4054.7123
+Effective focal length : 	    -1173.8940
+
+Ghost reflection off surface 29 then 28. (GH029028.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.2306E+01 	    1.297832 	  1.7658E+01
+Marginal ray height    : 	       22.3059
+Chief ray height       : 	       24.1807
+Distance to ghost pupil: 	      -48.4400
+Distance to ghost focus: 	      -57.8988
+Effective focal length : 	    -1318.5975
+
+Ghost reflection off surface 29 then 27. (GH029027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -7.4494E+01 	    0.804773 	  0.0000E+00
+Marginal ray height    : 	      -74.4937
+Chief ray height       : 	     -154.3542
+Distance to ghost pupil: 	     -117.6260
+Distance to ghost focus: 	     -119.9010
+Effective focal length : 	      817.6490
+
+Ghost reflection off surface 29 then 26. (GH029026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.5335E+01 	    1.070328 	  0.0000E+00
+Marginal ray height    : 	      -65.3355
+Chief ray height       : 	     -140.4749
+Distance to ghost pupil: 	     -136.0034
+Distance to ghost focus: 	     -139.8607
+Effective focal length : 	     1087.4532
+
+Ghost reflection off surface 29 then 25. (GH029025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  7.9007E+01 	    0.594756 	  0.0000E+00
+Marginal ray height    : 	       79.0070
+Chief ray height       : 	      149.1165
+Distance to ghost pupil: 	      -92.6151
+Distance to ghost focus: 	      -93.9799
+Effective focal length : 	     -604.2726
+
+Ghost reflection off surface 29 then 23. (GH029023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3705E+01 	    4.141542 	  0.0000E+00
+Marginal ray height    : 	      -13.7052
+Chief ray height       : 	      -39.4345
+Distance to ghost pupil: 	      189.0142
+Distance to ghost focus: 	      113.5217
+Effective focal length : 	    -4207.8066
+
+Ghost reflection off surface 29 then 20. (GH029020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3777E+01 	    3.226338 	  0.0000E+00
+Marginal ray height    : 	      -13.7767
+Chief ray height       : 	      -39.6416
+Distance to ghost pupil: 	      128.7450
+Distance to ghost focus: 	       88.8965
+Effective focal length : 	    -3277.9591
+
+Ghost reflection off surface 29 then 18. (GH029018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3859E+01 	    2.574083 	  0.0000E+00
+Marginal ray height    : 	      -13.8586
+Chief ray height       : 	      -39.8791
+Distance to ghost pupil: 	       88.4268
+Distance to ghost focus: 	       71.3463
+Effective focal length : 	    -2615.2681
+
+Ghost reflection off surface 29 then 17. (GH029017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.3873E+01 	    2.484723 	  0.0000E+00
+Marginal ray height    : 	      -13.8732
+Chief ray height       : 	      -39.9213
+Distance to ghost pupil: 	       84.0753
+Distance to ghost focus: 	       68.9420
+Effective focal length : 	    -2524.4788
+
+Ghost reflection off surface 29 then 13. (GH029013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.6875E+02 	    8.869252 	  0.0000E+00
+Marginal ray height    : 	      168.7530
+Chief ray height       : 	      401.8706
+Distance to ghost pupil: 	    -1748.8779
+Distance to ghost focus: 	    -2993.4248
+Effective focal length : 	    -9011.1596
+
+Ghost reflection off surface 29 then 12. (GH029012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.5271E+02 	    0.707164 	  0.0000E+00
+Marginal ray height    : 	     -252.7096
+Chief ray height       : 	     -619.0703
+Distance to ghost pupil: 	     -229.6245
+Distance to ghost focus: 	      357.4144
+Effective focal length : 	     -718.4791
+
+Ghost reflection off surface 29 then 11. (GH029011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.5430E+02 	    0.638041 	  0.0000E+00
+Marginal ray height    : 	     -254.2975
+Chief ray height       : 	     -624.3459
+Distance to ghost pupil: 	     -445.8717
+Distance to ghost focus: 	      324.5044
+Effective focal length : 	     -648.2496
+
+Ghost reflection off surface 29 then 10. (GH029010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.1968E+02 	    2.121592 	  0.0000E+00
+Marginal ray height    : 	      219.6785
+Chief ray height       : 	      530.2988
+Distance to ghost pupil: 	     3100.6379
+Distance to ghost focus: 	      932.1365
+Effective focal length : 	     2155.5377
+
+Ghost reflection off surface 29 then 9. (GH029009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.6028E+02 	    0.697879 	  0.0000E+00
+Marginal ray height    : 	     -160.2785
+Chief ray height       : 	     -397.7970
+Distance to ghost pupil: 	      144.8731
+Distance to ghost focus: 	      223.7100
+Effective focal length : 	     -709.0452
+
+Ghost reflection off surface 29 then 8. (GH029008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.2328E+02 	    0.764035 	  0.0000E+00
+Marginal ray height    : 	      323.2780
+Chief ray height       : 	      786.7522
+Distance to ghost pupil: 	      495.8227
+Distance to ghost focus: 	      493.9916
+Effective focal length : 	      776.2598
+
+Ghost reflection off surface 29 then 7. (GH029007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.8153E+00 	    1.569811 	  0.0000E+00
+Marginal ray height    : 	        6.8153
+Chief ray height       : 	       11.9744
+Distance to ghost pupil: 	       -8.5002
+Distance to ghost focus: 	      -21.3974
+Effective focal length : 	    -1594.9277
+
+Ghost reflection off surface 29 then 6. (GH029006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.2970E+02 	    0.871063 	  0.0000E+00
+Marginal ray height    : 	      129.7007
+Chief ray height       : 	      322.0033
+Distance to ghost pupil: 	      204.4577
+Distance to ghost focus: 	      225.9551
+Effective focal length : 	      885.0005
+
+Ghost reflection off surface 29 then 4. (GH029004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -9.2831E+01 	    1.083745 	  0.0000E+00
+Marginal ray height    : 	      -92.8311
+Chief ray height       : 	     -207.8114
+Distance to ghost pupil: 	     -191.5472
+Distance to ghost focus: 	     -201.2105
+Effective focal length : 	     1101.0850
+
+Ghost reflection off surface 29 then 3. (GH029003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -9.2408E+01 	    1.106932 	  0.0000E+00
+Marginal ray height    : 	      -92.4080
+Chief ray height       : 	     -207.1879
+Distance to ghost pupil: 	     -195.3557
+Distance to ghost focus: 	     -204.5788
+Effective focal length : 	     1124.6427
+
+Ghost reflection off surface 29 then 2. (GH029002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 29 then 1. (GH029001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	  1.1101E+03 	  178.311535 	  0.0000E+00
+Marginal ray height    : 	     1110.0512
+Chief ray height       : 	     2559.7725
+Distance to ghost pupil: 	   273303.3084
+Distance to ghost focus: 	    -4075.6094
+Effective focal length : 	    -1865.1478
+
+Ghost reflection off surface 30 then 29. (GH030029.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.5395E+01 	    0.781141 	  4.0241E+01
+Marginal ray height    : 	       45.3950
+Chief ray height       : 	       67.3448
+Distance to ghost pupil: 	      -68.0143
+Distance to ghost focus: 	      -70.9198
+Effective focal length : 	     -793.6395
+
+Ghost reflection off surface 30 then 28. (GH030028.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0520E+01 	    1.051692 	  3.0561E+01
+Marginal ray height    : 	       40.5198
+Chief ray height       : 	       68.6013
+Distance to ghost pupil: 	      -80.6591
+Distance to ghost focus: 	      -85.2288
+Effective focal length : 	    -1068.5194
+
+Ghost reflection off surface 30 then 27. (GH030027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.8434E+01 	    0.901637 	  0.0000E+00
+Marginal ray height    : 	       58.4337
+Chief ray height       : 	       58.4140
+Distance to ghost pupil: 	      -99.7995
+Distance to ghost focus: 	     -105.3720
+Effective focal length : 	     -916.0631
+
+Ghost reflection off surface 30 then 26. (GH030026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  6.4668E+01 	    0.927658 	  0.0000E+00
+Marginal ray height    : 	       64.6681
+Chief ray height       : 	       71.1442
+Distance to ghost pupil: 	     -114.5600
+Distance to ghost focus: 	     -119.9798
+Effective focal length : 	     -942.5008
+
+Ghost reflection off surface 30 then 25. (GH030025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.3566E+01 	    1.591765 	  2.1704E+01
+Marginal ray height    : 	      -23.5662
+Chief ray height       : 	       -4.9590
+Distance to ghost pupil: 	      -37.8631
+Distance to ghost focus: 	      -75.0237
+Effective focal length : 	     1617.2333
+
+Ghost reflection off surface 30 then 23. (GH030023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.9805E+01 	   34.231818 	  0.0000E+00
+Marginal ray height    : 	       39.8053
+Chief ray height       : 	       53.8618
+Distance to ghost pupil: 	     -797.5505
+Distance to ghost focus: 	    -2725.2123
+Effective focal length : 	   -34779.5267
+
+Ghost reflection off surface 30 then 20. (GH030020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0017E+01 	    5.760506 	  0.0000E+00
+Marginal ray height    : 	       40.0168
+Chief ray height       : 	       54.1486
+Distance to ghost pupil: 	      774.2916
+Distance to ghost focus: 	      461.0337
+Effective focal length : 	     5852.6745
+
+Ghost reflection off surface 30 then 18. (GH030018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0259E+01 	    2.462142 	  0.0000E+00
+Marginal ray height    : 	       40.2593
+Chief ray height       : 	       54.4774
+Distance to ghost pupil: 	      196.3555
+Distance to ghost focus: 	      198.2483
+Effective focal length : 	     2501.5360
+
+Ghost reflection off surface 30 then 17. (GH030017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0302E+01 	    2.234537 	  0.0000E+00
+Marginal ray height    : 	       40.3025
+Chief ray height       : 	       54.5359
+Distance to ghost pupil: 	      175.2762
+Distance to ghost focus: 	      180.1147
+Effective focal length : 	     2270.2899
+
+Ghost reflection off surface 30 then 13. (GH030013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.6981E+02 	    4.173698 	  0.0000E+00
+Marginal ray height    : 	     -269.8106
+Chief ray height       : 	     -336.2755
+Distance to ghost pupil: 	     -559.7222
+Distance to ghost focus: 	    -2252.2157
+Effective focal length : 	     4240.4775
+
+Ghost reflection off surface 30 then 12. (GH030012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.4949E+02 	    0.403937 	  0.0000E+00
+Marginal ray height    : 	      449.4938
+Chief ray height       : 	      571.0197
+Distance to ghost pupil: 	      364.1136
+Distance to ghost focus: 	      363.1340
+Effective focal length : 	      410.3997
+
+Ghost reflection off surface 30 then 11. (GH030011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.5597E+02 	    0.360899 	  0.0000E+00
+Marginal ray height    : 	      455.9658
+Chief ray height       : 	      580.0205
+Distance to ghost pupil: 	      329.8958
+Distance to ghost focus: 	      329.1151
+Effective focal length : 	      366.6733
+
+Ghost reflection off surface 30 then 10. (GH030010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.7006E+02 	    1.336113 	  0.0000E+00
+Marginal ray height    : 	     -370.0644
+Chief ray height       : 	     -465.6998
+Distance to ghost pupil: 	      999.8046
+Distance to ghost focus: 	      988.8959
+Effective focal length : 	    -1357.4912
+
+Ghost reflection off surface 30 then 9. (GH030009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.9867E+02 	    0.383487 	  0.0000E+00
+Marginal ray height    : 	      298.6654
+Chief ray height       : 	      382.3129
+Distance to ghost pupil: 	      229.9459
+Distance to ghost focus: 	      229.0688
+Effective focal length : 	      389.6231
+
+Ghost reflection off surface 30 then 8. (GH030008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.6135E+02 	    0.446085 	  0.0000E+00
+Marginal ray height    : 	     -561.3458
+Chief ray height       : 	     -710.1934
+Distance to ghost pupil: 	      502.0151
+Distance to ghost focus: 	      500.8160
+Effective focal length : 	     -453.2224
+
+Ghost reflection off surface 30 then 7. (GH030007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.0656E-01 	    0.694283 	  0.0000E+00
+Marginal ray height    : 	        0.3066
+Chief ray height       : 	        3.0437
+Distance to ghost pupil: 	        5.4235
+Distance to ghost focus: 	        0.4257
+Effective focal length : 	      705.3916
+
+Ghost reflection off surface 30 then 6. (GH030006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.4194E+02 	    0.484419 	  0.0000E+00
+Marginal ray height    : 	     -241.9435
+Chief ray height       : 	     -309.7573
+Distance to ghost pupil: 	     -304.8639
+Distance to ghost focus: 	      234.4040
+Effective focal length : 	     -492.1696
+
+Ghost reflection off surface 30 then 4. (GH030004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1352E+02 	    0.808914 	  0.0000E+00
+Marginal ray height    : 	      113.5208
+Chief ray height       : 	      133.1933
+Distance to ghost pupil: 	     -170.5765
+Distance to ghost focus: 	     -183.6571
+Effective focal length : 	     -821.8566
+
+Ghost reflection off surface 30 then 3. (GH030003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.1386E+02 	    0.818726 	  0.0000E+00
+Marginal ray height    : 	      113.8552
+Chief ray height       : 	      133.8502
+Distance to ghost pupil: 	     -173.7184
+Distance to ghost focus: 	     -186.4323
+Effective focal length : 	     -831.8252
+
+Ghost reflection off surface 30 then 2. (GH030002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 30 then 1. (GH030001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -1.5544E+03 	   59.269232 	  0.0000E+00
+Marginal ray height    : 	    -1554.4095
+Chief ray height       : 	    -1884.9599
+Distance to ghost pupil: 	   148358.4303
+Distance to ghost focus: 	    -4027.9833
+Effective focal length : 	     1316.3942
+
+Ghost reflection off surface 31 then 30. (GH031030.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.1368E+01 	    1.406269 	  1.6709E+01
+Marginal ray height    : 	       21.3676
+Chief ray height       : 	       17.0679
+Distance to ghost pupil: 	      -46.3994
+Distance to ghost focus: 	      -60.0973
+Effective focal length : 	    -1428.7688
+
+Ghost reflection off surface 31 then 29. (GH031029.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8698E+01 	    1.012780 	  3.0463E+01
+Marginal ray height    : 	       38.6975
+Chief ray height       : 	       67.5732
+Distance to ghost pupil: 	      -74.2646
+Distance to ghost focus: 	      -78.3842
+Effective focal length : 	    -1028.9842
+
+Ghost reflection off surface 31 then 28. (GH031028.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.4011E+01 	    2.237014 	  1.7252E+01
+Marginal ray height    : 	       24.0111
+Chief ray height       : 	       51.8861
+Distance to ghost pupil: 	      -92.5832
+Distance to ghost focus: 	     -107.4264
+Effective focal length : 	    -2272.8065
+
+Ghost reflection off surface 31 then 27. (GH031027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.4887E+01 	    0.653405 	  0.0000E+00
+Marginal ray height    : 	       84.8865
+Chief ray height       : 	      115.0602
+Distance to ghost pupil: 	     -108.6812
+Distance to ghost focus: 	     -110.9306
+Effective focal length : 	     -663.8594
+
+Ghost reflection off surface 31 then 26. (GH031026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.5883E+01 	    0.736015 	  0.0000E+00
+Marginal ray height    : 	       85.8826
+Chief ray height       : 	      120.8833
+Distance to ghost pupil: 	     -123.6669
+Distance to ghost focus: 	     -126.4218
+Effective focal length : 	     -747.7917
+
+Ghost reflection off surface 31 then 25. (GH031025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.7307E+01 	    0.753286 	  4.8905E+01
+Marginal ray height    : 	      -57.3069
+Chief ray height       : 	      -64.8739
+Distance to ghost pupil: 	      -82.8352
+Distance to ghost focus: 	      -86.3370
+Effective focal length : 	      765.3381
+
+Ghost reflection off surface 31 then 23. (GH031023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0371E+01 	   11.250042 	  0.0000E+00
+Marginal ray height    : 	       40.3712
+Chief ray height       : 	       64.4070
+Distance to ghost pupil: 	     2705.6194
+Distance to ghost focus: 	      908.3561
+Effective focal length : 	    11430.0425
+
+Ghost reflection off surface 31 then 20. (GH031020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0585E+01 	    3.401923 	  0.0000E+00
+Marginal ray height    : 	       40.5851
+Chief ray height       : 	       64.7487
+Distance to ghost pupil: 	      345.0865
+Distance to ghost focus: 	      276.1348
+Effective focal length : 	     3456.3539
+
+Ghost reflection off surface 31 then 18. (GH031018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0830E+01 	    1.890034 	  0.0000E+00
+Marginal ray height    : 	       40.8303
+Chief ray height       : 	       65.1405
+Distance to ghost pupil: 	      149.4943
+Distance to ghost focus: 	      154.3415
+Effective focal length : 	     1920.2744
+
+Ghost reflection off surface 31 then 17. (GH031017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.0874E+01 	    1.751558 	  0.0000E+00
+Marginal ray height    : 	       40.8740
+Chief ray height       : 	       65.2102
+Distance to ghost pupil: 	      137.0361
+Distance to ghost focus: 	      143.1862
+Effective focal length : 	     1779.5826
+
+Ghost reflection off surface 31 then 13. (GH031013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.0939E+02 	    3.887138 	  0.0000E+00
+Marginal ray height    : 	     -309.3908
+Chief ray height       : 	     -465.1819
+Distance to ghost pupil: 	     -578.2519
+Distance to ghost focus: 	    -2405.2893
+Effective focal length : 	     3949.3320
+
+Ghost reflection off surface 31 then 12. (GH031012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.0204E+02 	    0.360292 	  0.0000E+00
+Marginal ray height    : 	      502.0381
+Chief ray height       : 	      764.2517
+Distance to ghost pupil: 	      362.4106
+Distance to ghost focus: 	      361.7609
+Effective focal length : 	      366.0569
+
+Ghost reflection off surface 31 then 11. (GH031011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.0830E+02 	    0.322660 	  0.0000E+00
+Marginal ray height    : 	      508.3004
+Chief ray height       : 	      774.4822
+Distance to ghost pupil: 	      328.5370
+Distance to ghost focus: 	      328.0164
+Effective focal length : 	      327.8226
+
+Ghost reflection off surface 31 then 10. (GH031010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.1880E+02 	    1.163120 	  0.0000E+00
+Marginal ray height    : 	     -418.8015
+Chief ray height       : 	     -633.5870
+Distance to ghost pupil: 	      981.0824
+Distance to ghost focus: 	      974.2331
+Effective focal length : 	    -1181.7303
+
+Ghost reflection off surface 31 then 9. (GH031009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.2998E+02 	    0.345201 	  0.0000E+00
+Marginal ray height    : 	      329.9811
+Chief ray height       : 	      504.9260
+Distance to ghost pupil: 	      228.4136
+Distance to ghost focus: 	      227.8197
+Effective focal length : 	      350.7244
+
+Ghost reflection off surface 31 then 8. (GH031008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.3059E+02 	    0.395783 	  0.0000E+00
+Marginal ray height    : 	     -630.5862
+Chief ray height       : 	     -957.3267
+Distance to ghost pupil: 	      499.9362
+Distance to ghost focus: 	      499.1502
+Effective focal length : 	     -402.1152
+
+Ghost reflection off surface 31 then 7. (GH031007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.9503E+00 	    0.654749 	  0.0000E+00
+Marginal ray height    : 	       -2.9503
+Chief ray height       : 	       -2.1147
+Distance to ghost pupil: 	        1.5982
+Distance to ghost focus: 	       -3.8634
+Effective focal length : 	      665.2248
+
+Ghost reflection off surface 31 then 6. (GH031006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -2.6725E+02 	    0.434835 	  0.0000E+00
+Marginal ray height    : 	     -267.2468
+Chief ray height       : 	     -408.9795
+Distance to ghost pupil: 	     -329.5043
+Distance to ghost focus: 	      232.4166
+Effective focal length : 	     -441.7924
+
+Ghost reflection off surface 31 then 4. (GH031004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.4046E+02 	    0.672027 	  0.0000E+00
+Marginal ray height    : 	      140.4602
+Chief ray height       : 	      203.9564
+Distance to ghost pupil: 	     -179.7837
+Distance to ghost focus: 	     -188.7861
+Effective focal length : 	     -682.7795
+
+Ghost reflection off surface 31 then 3. (GH031003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.4055E+02 	    0.681986 	  0.0000E+00
+Marginal ray height    : 	      140.5458
+Chief ray height       : 	      204.2945
+Distance to ghost pupil: 	     -183.1539
+Distance to ghost focus: 	     -191.7005
+Effective focal length : 	     -692.8979
+
+Ghost reflection off surface 31 then 2. (GH031002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 31 then 1. (GH031001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -1.8474E+03 	   58.763644 	  0.0000E+00
+Marginal ray height    : 	    -1847.3905
+Chief ray height       : 	    -2731.9651
+Distance to ghost pupil: 	   179089.8866
+Distance to ghost focus: 	    -4041.3548
+Effective focal length : 	     1111.3017
+
+Ghost reflection off surface 32 then 31. (GH032031.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.9166E+01 	    2.422681 	  1.4240E+01
+Marginal ray height    : 	      -19.1662
+Chief ray height       : 	      -64.7125
+Distance to ghost pupil: 	      -81.4359
+Distance to ghost focus: 	      -92.8671
+Effective focal length : 	     2461.4438
+
+Ghost reflection off surface 32 then 30. (GH032030.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.0755E+01 	    6.235625 	  7.9234E+00
+Marginal ray height    : 	      -10.7547
+Chief ray height       : 	      -55.5873
+Distance to ghost pupil: 	      -94.2760
+Distance to ghost focus: 	     -134.1249
+Effective focal length : 	     6335.3947
+
+Ghost reflection off surface 32 then 29. (GH032029.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.1215E+01 	    1.537531 	  1.6350E+01
+Marginal ray height    : 	       21.2153
+Chief ray height       : 	       36.8128
+Distance to ghost pupil: 	      -56.5075
+Distance to ghost focus: 	      -65.2385
+Effective focal length : 	    -1562.1313
+
+Ghost reflection off surface 32 then 28. (GH032028.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  2.4216E+01 	    1.595809 	  1.8261E+01
+Marginal ray height    : 	       24.2165
+Chief ray height       : 	       60.1844
+Distance to ghost pupil: 	      -70.3333
+Distance to ghost focus: 	      -77.2898
+Effective focal length : 	    -1621.3415
+
+Ghost reflection off surface 32 then 27. (GH032027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  9.7244E+00 	    4.443476 	  7.3202E+00
+Marginal ray height    : 	        9.7244
+Chief ray height       : 	      -43.6251
+Distance to ghost pupil: 	     -142.0425
+Distance to ghost focus: 	      -86.4201
+Effective focal length : 	    -4514.5716
+
+Ghost reflection off surface 32 then 26. (GH032026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.4803E+01 	    3.529391 	  1.1083E+01
+Marginal ray height    : 	       14.8031
+Chief ray height       : 	      -27.3635
+Distance to ghost pupil: 	     -210.4534
+Distance to ghost focus: 	     -104.4921
+Effective focal length : 	    -3585.8611
+
+Ghost reflection off surface 32 then 25. (GH032025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  7.6457E+00 	    9.665891 	  5.4501E+00
+Marginal ray height    : 	        7.6457
+Chief ray height       : 	       77.4632
+Distance to ghost pupil: 	     -100.3925
+Distance to ghost focus: 	     -147.8047
+Effective focal length : 	    -9820.5451
+
+Ghost reflection off surface 32 then 23. (GH032023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5375E+01 	   14.143755 	  0.0000E+00
+Marginal ray height    : 	       15.3749
+Chief ray height       : 	       15.5723
+Distance to ghost pupil: 	      -97.6439
+Distance to ghost focus: 	     -434.9167
+Effective focal length : 	   -14370.0550
+
+Ghost reflection off surface 32 then 20. (GH032020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5457E+01 	  125.815807 	  0.0000E+00
+Marginal ray height    : 	       15.4569
+Chief ray height       : 	       15.6567
+Distance to ghost pupil: 	     -131.5765
+Distance to ghost focus: 	     3889.4435
+Effective focal length : 	   127828.8598
+
+Ghost reflection off surface 32 then 18. (GH032018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5551E+01 	   10.190082 	  1.1434E+01
+Marginal ray height    : 	       15.5510
+Chief ray height       : 	       15.7536
+Distance to ghost pupil: 	     -279.0252
+Distance to ghost focus: 	      316.9310
+Effective focal length : 	    10353.1232
+
+Ghost reflection off surface 32 then 17. (GH032017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5568E+01 	    8.758251 	  1.1456E+01
+Marginal ray height    : 	       15.5677
+Chief ray height       : 	       15.7708
+Distance to ghost pupil: 	     -337.9703
+Distance to ghost focus: 	      272.6914
+Effective focal length : 	     8898.3827
+
+Ghost reflection off surface 32 then 13. (GH032013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.6294E+01 	   11.710033 	  0.0000E+00
+Marginal ray height    : 	      -86.2945
+Chief ray height       : 	      -12.8031
+Distance to ghost pupil: 	     -422.0124
+Distance to ghost focus: 	    -2021.0220
+Effective focal length : 	    11897.3939
+
+Ghost reflection off surface 32 then 12. (GH032012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5048E+02 	    1.214305 	  0.0000E+00
+Marginal ray height    : 	      150.4787
+Chief ray height       : 	       56.0869
+Distance to ghost pupil: 	      398.2442
+Distance to ghost focus: 	      365.4543
+Effective focal length : 	     1233.7342
+
+Ghost reflection off surface 32 then 11. (GH032011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5313E+02 	    1.080651 	  0.0000E+00
+Marginal ray height    : 	      153.1299
+Chief ray height       : 	       59.4018
+Distance to ghost pupil: 	      355.5592
+Distance to ghost focus: 	      330.9600
+Effective focal length : 	     1097.9418
+
+Ghost reflection off surface 32 then 10. (GH032010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.2114E+02 	    4.190899 	  0.0000E+00
+Marginal ray height    : 	     -121.1415
+Chief ray height       : 	      -31.9618
+Distance to ghost pupil: 	     -143.0941
+Distance to ghost focus: 	     1015.3838
+Effective focal length : 	    -4257.9532
+
+Ghost reflection off surface 32 then 9. (GH032009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.0179E+02 	    1.135332 	  0.0000E+00
+Marginal ray height    : 	      101.7888
+Chief ray height       : 	       46.6010
+Distance to ghost pupil: 	     -223.1392
+Distance to ghost focus: 	      231.1283
+Effective focal length : 	     1153.4976
+
+Ghost reflection off surface 32 then 8. (GH032008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.8611E+02 	    1.353166 	  0.0000E+00
+Marginal ray height    : 	     -186.1085
+Chief ray height       : 	      -60.6478
+Distance to ghost pupil: 	      550.3712
+Distance to ghost focus: 	      503.6714
+Effective focal length : 	    -1374.8164
+
+Ghost reflection off surface 32 then 7. (GH032007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.7534E+00 	    1.912054 	  0.0000E+00
+Marginal ray height    : 	        1.7534
+Chief ray height       : 	        8.5822
+Distance to ghost pupil: 	       33.0425
+Distance to ghost focus: 	        6.7053
+Effective focal length : 	     1942.6467
+
+Ghost reflection off surface 32 then 6. (GH032006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.2490E+01 	    1.440816 	  0.0000E+00
+Marginal ray height    : 	      -82.4899
+Chief ray height       : 	      -37.9195
+Distance to ghost pupil: 	      394.7552
+Distance to ghost focus: 	      237.7056
+Effective focal length : 	    -1463.8689
+
+Ghost reflection off surface 32 then 4. (GH032004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.1151E+01 	    2.777310 	  0.0000E+00
+Marginal ray height    : 	       31.1506
+Chief ray height       : 	      -21.3047
+Distance to ghost pupil: 	     -594.3211
+Distance to ghost focus: 	     -173.0297
+Effective focal length : 	    -2821.7467
+
+Ghost reflection off surface 32 then 3. (GH032003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.1407E+01 	    2.795643 	  0.0000E+00
+Marginal ray height    : 	       31.4069
+Chief ray height       : 	      -20.5158
+Distance to ghost pupil: 	     -709.2594
+Distance to ghost focus: 	     -175.6051
+Effective focal length : 	    -2840.3732
+
+Ghost reflection off surface 32 then 2. (GH032002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 32 then 1. (GH032001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -4.6459E+02 	  152.336696 	  3.4217E+02
+Marginal ray height    : 	     -464.5867
+Chief ray height       : 	       94.7877
+Distance to ghost pupil: 	   -11271.8715
+Distance to ghost focus: 	    -4001.5881
+Effective focal length : 	     4375.5167
+
+Ghost reflection off surface 33 then 32. (GH033032.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  1.5029E+01 	    3.509745 	  1.1190E+01
+Marginal ray height    : 	       15.0285
+Chief ray height       : 	      -29.2585
+Distance to ghost pupil: 	     -198.2136
+Distance to ghost focus: 	     -105.4927
+Effective focal length : 	    -3565.9009
+
+Ghost reflection off surface 33 then 31. (GH033031.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8783E+01 	    0.992223 	  3.1248E+01
+Marginal ray height    : 	       38.7834
+Chief ray height       : 	      -97.4014
+Distance to ghost pupil: 	      -80.0705
+Distance to ghost focus: 	      -76.9635
+Effective focal length : 	    -1008.0989
+
+Ghost reflection off surface 33 then 30. (GH033030.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.8529E+01 	    1.133658 	  3.0315E+01
+Marginal ray height    : 	       38.5287
+Chief ray height       : 	      -87.2362
+Distance to ghost pupil: 	      -91.9379
+Distance to ghost focus: 	      -87.3567
+Effective focal length : 	    -1151.7966
+
+Ghost reflection off surface 33 then 29. (GH033029.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.2644E+01 	    1.839797 	  9.9618E+00
+Marginal ray height    : 	      -12.6437
+Chief ray height       : 	       48.9605
+Distance to ghost pupil: 	      -54.4281
+Distance to ghost focus: 	      -46.5238
+Effective focal length : 	     1869.2336
+
+Ghost reflection off surface 33 then 28. (GH033028.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -3.0232E+01 	    1.088256 	  2.4724E+01
+Marginal ray height    : 	      -30.2320
+Chief ray height       : 	       86.5897
+Distance to ghost pupil: 	      -69.1522
+Distance to ghost focus: 	      -65.8003
+Effective focal length : 	     1105.6682
+
+Ghost reflection off surface 33 then 27. (GH033027.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.6828E+01 	    1.344871 	  3.7796E+01
+Marginal ray height    : 	       46.8283
+Chief ray height       : 	      -79.8210
+Distance to ghost pupil: 	     -134.8401
+Distance to ghost focus: 	     -125.9561
+Effective focal length : 	    -1366.3888
+
+Ghost reflection off surface 33 then 26. (GH033026.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  3.7322E+01 	    2.037113 	  3.0082E+01
+Marginal ray height    : 	       37.3222
+Chief ray height       : 	      -55.5090
+Distance to ghost pupil: 	     -177.3864
+Distance to ghost focus: 	     -152.0589
+Effective focal length : 	    -2069.7066
+
+Ghost reflection off surface 33 then 25. (GH033025.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.0397E+01 	    0.800061 	  0.0000E+00
+Marginal ray height    : 	      -60.3967
+Chief ray height       : 	      126.1576
+Distance to ghost pupil: 	      -99.1578
+Distance to ghost focus: 	      -96.6420
+Effective focal length : 	      812.8616
+
+Ghost reflection off surface 33 then 23. (GH033023.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.9747E-01 	    4.697810 	  0.0000E+00
+Marginal ray height    : 	        0.4975
+Chief ray height       : 	       16.7090
+Distance to ghost pupil: 	      -67.5191
+Distance to ghost focus: 	        4.6741
+Effective focal length : 	     4772.9748
+
+Ghost reflection off surface 33 then 20. (GH033020.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.9894E-01 	    4.667062 	  0.0000E+00
+Marginal ray height    : 	        0.4989
+Chief ray height       : 	       16.8004
+Distance to ghost pupil: 	      -82.5078
+Distance to ghost focus: 	        4.6571
+Effective focal length : 	     4741.7346
+
+Ghost reflection off surface 33 then 18. (GH033018.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.0061E-01 	    4.632295 	  2.7440E-01
+Marginal ray height    : 	        0.5006
+Chief ray height       : 	       16.9053
+Distance to ghost pupil: 	     -124.2530
+Distance to ghost focus: 	        4.6380
+Effective focal length : 	     4706.4119
+
+Ghost reflection off surface 33 then 17. (GH033017.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.0091E-01 	    4.626165 	  2.7448E-01
+Marginal ray height    : 	        0.5009
+Chief ray height       : 	       16.9240
+Distance to ghost pupil: 	     -134.8122
+Distance to ghost focus: 	        4.6346
+Effective focal length : 	     4700.1833
+
+Ghost reflection off surface 33 then 13. (GH033013.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -6.7681E+01 	   34.911637 	  0.0000E+00
+Marginal ray height    : 	      -67.6810
+Chief ray height       : 	       32.3149
+Distance to ghost pupil: 	     1789.2457
+Distance to ghost focus: 	    -4725.7074
+Effective focal length : 	    35470.2235
+
+Ghost reflection off surface 33 then 12. (GH033012.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.8654E+01 	    1.971776 	  0.0000E+00
+Marginal ray height    : 	       88.6545
+Chief ray height       : 	        0.7171
+Distance to ghost pupil: 	      -36.9691
+Distance to ghost focus: 	      349.6136
+Effective focal length : 	     2003.3248
+
+Ghost reflection off surface 33 then 11. (GH033011.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  8.8192E+01 	    1.803260 	  0.0000E+00
+Marginal ray height    : 	       88.1924
+Chief ray height       : 	        4.6629
+Distance to ghost pupil: 	     -675.7167
+Distance to ghost focus: 	      318.0677
+Effective focal length : 	     1832.1119
+
+Ghost reflection off surface 33 then 10. (GH033010.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -8.2844E+01 	    5.249785 	  0.0000E+00
+Marginal ray height    : 	      -82.8439
+Chief ray height       : 	       21.7188
+Distance to ghost pupil: 	     -651.3544
+Distance to ghost focus: 	      869.8254
+Effective focal length : 	    -5333.7817
+
+Ghost reflection off surface 33 then 9. (GH033009.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  5.2434E+01 	    2.056669 	  0.0000E+00
+Marginal ray height    : 	       52.4343
+Chief ray height       : 	       15.1267
+Distance to ghost pupil: 	      314.4564
+Distance to ghost focus: 	      215.6802
+Effective focal length : 	     2089.5757
+
+Ghost reflection off surface 33 then 8. (GH033008.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -1.1723E+02 	    2.069213 	  0.0000E+00
+Marginal ray height    : 	     -117.2298
+Chief ray height       : 	       13.8511
+Distance to ghost pupil: 	      309.3803
+Distance to ghost focus: 	      485.1469
+Effective focal length : 	    -2102.3204
+
+Ghost reflection off surface 33 then 7. (GH033007.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -5.8636E+00 	    7.266137 	  3.9613E+00
+Marginal ray height    : 	       -5.8636
+Chief ray height       : 	       13.4104
+Distance to ghost pupil: 	       55.4626
+Distance to ghost focus: 	      -85.2109
+Effective focal length : 	     7382.3952
+
+Ghost reflection off surface 33 then 6. (GH033006.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	 -4.2359E+01 	    2.522063 	  0.0000E+00
+Marginal ray height    : 	      -42.3591
+Chief ray height       : 	      -12.5188
+Distance to ghost pupil: 	      412.8857
+Distance to ghost focus: 	      213.6646
+Effective focal length : 	    -2562.4162
+
+Ghost reflection off surface 33 then 4. (GH033004.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.6983E+01 	    2.289003 	  0.0000E+00
+Marginal ray height    : 	       46.9831
+Chief ray height       : 	      -55.4891
+Distance to ghost pupil: 	     -294.6951
+Distance to ghost focus: 	     -215.0888
+Effective focal length : 	    -2325.6269
+
+Ghost reflection off surface 33 then 3. (GH033003.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+  33 	  4.6531E+01 	    2.355021 	  0.0000E+00
+Marginal ray height    : 	       46.5310
+Chief ray height       : 	      -54.3158
+Distance to ghost pupil: 	     -307.6750
+Distance to ghost focus: 	     -219.1628
+Effective focal length : 	    -2392.7017
+
+Ghost reflection off surface 33 then 2. (GH033002.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+
+Ghost reflection off surface 33 then 1. (GH033001.ZMX)
+Surf 	   Marginal        	   F/#       	 RMS
+   1 	 -5.0678E+02 	24742.913613 	  3.5895E+02
+Marginal ray height    : 	     -506.7819
+Chief ray height       : 	      450.7085
+Distance to ghost pupil: 	   -90914.2550
+Distance to ghost focus: 	    -4117.3295
+Effective focal length : 	     4127.2257
+
+Closest ghost pupil    : 	        1.5982 	at 31 then 7
+Closest ghost focus    : 	        0.4106 	at 23 then 17
