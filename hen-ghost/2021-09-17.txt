@@ -20,7 +20,7 @@ non-rotationally symmetric or uses non-standard surfaces.
 
 Ghost reflection off surface 6 then 4. (GH006004.ZMX)
 Surf 	   Marginal        	   F/#       	 RMS
-  33 	  1.6911E+02 	    0.727151 	  0.0000E+00
+  32 	  1.6911E+02 	    0.727151 	  0.0000E+00
 Marginal ray height    : 	      169.1116
 Chief ray height       : 	     -181.3436
 Distance to ghost pupil: 	     -256.0807
