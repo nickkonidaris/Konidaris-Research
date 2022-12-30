@@ -1,0 +1,5 @@
+
+Convert map data into sag files for zemax.
+
+Takes interferogram data provided by Tom Herbst and converts it into a grid sag format used by zemax
+
