@@ -2,6 +2,8 @@ import numpy as np
 import datetime
 import glob
 
+import astropy.convolution as CC
+
 # Files created here need to be copied to LENS DESIGNS/From Others
 
 def handle(filename):
@@ -17,7 +19,12 @@ def handle(filename):
     z[~np.isfinite(z)] = 0
     z /= 1000 # micron -> mm
 
-    #new = np.array(z.reshape(xm,ym)).T
+    new = np.array(z.reshape(xm,ym)).T
+
+    kernel = CC.Gaussian2DKernel(3)
+    new = CC.convolve(new, kernel)
+    z = new.flatten("F")
+
     unitflag = 0 # Unit is mm (zemax manual)
 
     # From zemax manual, file format:
@@ -26,6 +33,7 @@ def handle(filename):
     now = datetime.datetime.now()
     header = f"! Created on {now} using {__file__} \r\n{ym} {xm} {dx} {dy} {unitflag} 0 0"
     fmt = "%3.6f 0 0 0 0"
+
     print(header)
     np.savetxt(filename + ".dat", 
                 z,
@@ -36,7 +44,7 @@ def handle(filename):
 
 def go():
     """ Find all the files and process them"""
-    files = glob.glob("/Users/npk/Dropbox/REPOS/Konidaris-Research/notebooks/LVM-surface-maps/*.txt")
+    files = glob.glob("/Users/npk/Dropbox/REPOS/Konidaris/-Research/notebooks/LVM-surface-maps/*.txt")
     print(files)
 
     for file in files:
