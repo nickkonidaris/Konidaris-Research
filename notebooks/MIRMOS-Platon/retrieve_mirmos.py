@@ -8,7 +8,7 @@ import scipy.interpolate
 import corner
 
 from platon.fit_info import FitInfo
-from platon.retriever import Retriever
+from platon.retriever import CombinedRetriever
 from platon.constants import R_sun, R_jup, M_jup
 
 from platon.transit_depth_calculator import TransitDepthCalculator
@@ -88,7 +88,7 @@ for ix,dl in enumerate(bins):
 errors[0] = 20e-6
 
 #create a Retriever object
-retriever = Retriever()
+retriever = CombinedRetriever()
 
 #create a FitInfo object and set best guess parameters
 fit_info = retriever.get_default_fit_info(
@@ -104,17 +104,18 @@ fit_info.add_gaussian_fit_param('Mp', 0.04*M_jup)
 
 # Here, emcee is initialized with walkers where R is between 0.9*R_guess and
 # 1.1*R_guess.  However, the hard limit on R is from 0 to infinity.
-fit_info.add_uniform_fit_param('Rp', 0, np.inf, 0.9*Rp, 1.1*Rp)
+fit_info.add_uniform_fit_param('Rp', 0.9*Rp, 1.1*Rp)
 
 fit_info.add_uniform_fit_param('T', 300, 3000, 0.5*T_guess, 1.5*T_guess)
 fit_info.add_uniform_fit_param("log_scatt_factor", 0, 5, 0, 1)
 fit_info.add_uniform_fit_param("logZ", -1, 3)
 fit_info.add_uniform_fit_param("log_cloudtop_P", -0.99, 5)
-fit_info.add_uniform_fit_param("error_multiple", 0, np.inf, 0.5, 5)
+fit_info.add_uniform_fit_param("error_multiple", 0.5, 5)
 
 #Use Nested Sampling to do the fitting
-result = retriever.run_emcee(bins, transit_depths, errors, \
-                             fit_info, plot_best=True, nsteps=5000)
+result = retriever.run_multinest(bins, transit_depths, errors, \
+				None, None, None, \
+                             fit_info, rad_method="xsec")
 plt.savefig("best_fit.png")
 
 np.save("chain.npy", result.chain)
